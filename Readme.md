@@ -21,7 +21,7 @@
 Click the button below to quickly generate your WhatsApp session ID:
 
 <p align="center">
-  <a href="https://pro.bwmxmd.co.ke/pair" target="_blank">
+  <a href="https://git.bwmxmd.co.ke/pair" target="_blank">
     <img src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&color=FF0000" width="260" height="50"/>
   </a>
 </p>
@@ -38,7 +38,7 @@ Deploy the bot on your preferred platform.
   <a href="https://pro.bwmxmd.co.ke" target="_blank">
     <img src="https://img.shields.io/badge/🚀_BWM_XMD_PRO-000000?style=for-the-badge&color=FF00F" width="200" height="45"/>
   </a>
-   <a href="https://pro.bwmxmd.co.ke/heroku" target="_blank">
+   <a href="https://git.bwmxmd.co.ke/heroku" target="_blank">
     <img src="https://img.shields.io/badge/🚀_HEROKU-000000?style=for-the-badge&color=FF00FF" width="200" height="45"/>
   </a>
   <a href="https://render.com" target="_blank">
